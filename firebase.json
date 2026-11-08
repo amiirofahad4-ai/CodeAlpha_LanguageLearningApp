@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "languagelearnting",
+          "appId": "1:247593337281:android:dba95b5c8f7b006063ef40",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "languagelearnting",
+          "configurations": {
+            "android": "1:247593337281:android:dba95b5c8f7b006063ef40",
+            "web": "1:247593337281:web:35730d0be661ab3463ef40"
+          }
+        }
+      }
+    }
+  }
+}
