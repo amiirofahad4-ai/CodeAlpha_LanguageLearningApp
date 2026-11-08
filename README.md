@@ -9,6 +9,14 @@ Internship** (Task: *Language Learning App*).
 > **Af-Soomaali:** LinguaLearn waa app dadka Soomaaliga ku hadla ay ku bartaan
 > Ingiriisi, Carabi iyo Turki. Turjumaad kasta waa Af-Soomaali.
 
+## 📲 Try it
+
+| | |
+|---|---|
+| 🌐 **Web app** (no install) | [languagelearnting.web.app/app](https://languagelearnting.web.app/app/) |
+| 📱 **Android APK** | [Latest release](https://github.com/amiirofahad4-ai/CodeAlpha_LanguageLearningApp/releases/latest) → download `LinguaLearn.apk` under **Assets** |
+| 🏠 **Download page** (with QR code) | [languagelearnting.web.app](https://languagelearnting.web.app) |
+
 ---
 
 ## ✅ CodeAlpha task requirements
